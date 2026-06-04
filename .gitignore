@@ -1,0 +1,6 @@
+*.o
+test_negative_space
+*.out
+*.a
+*.so
+*.dSYM/
