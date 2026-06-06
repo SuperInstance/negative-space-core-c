@@ -1,1 +1,3 @@
 test_core\n*.o
+target/
+Cargo.lock
